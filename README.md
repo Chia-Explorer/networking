@@ -1,4 +1,4 @@
-# Secrets
+# Networking
 
 This Terraform module is used to create a VPC with private and public subnets.
 
